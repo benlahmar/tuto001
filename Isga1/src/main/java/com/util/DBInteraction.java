@@ -23,9 +23,7 @@ public class DBInteraction {
 		} catch (SQLException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-		}
-		
-	
+		}	
 	}
 	public static void disconnect()
 	{
